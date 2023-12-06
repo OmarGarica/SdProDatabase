@@ -1,3 +1,6 @@
 public class SDProDatabase {
-   public Project projects;
+   public Project project;
+   public Worker worker;
+   public Contractor Contractor;
+   public Fincance fincance;
 }
